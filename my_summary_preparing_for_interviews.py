@@ -57,10 +57,15 @@ def hex_(*args, **kwargs):  # real signature unknown; NOTE: unreliably restored 
 # Абстракция https://www.youtube.com/watch?v=uSnli_4BrEA
 
 # _____________________________________________
-# Массив в python
+# ● Массив в python
 # https://codecamp.ru/blog/python-arrays/
 # and
 # https://pythonworld.ru/moduli/modul-array-massivy-v-python.html
+
+# ● Двоичное дерево https://www.youtube.com/watch?v=9o_i0zzxk1s&list=LL&index=13&t=1s
+# ● Односвязный список https://www.youtube.com/watch?v=C9FK1pHLnhI&list=LL&index=12&t=655s
+# ● Двусвязный список https://www.youtube.com/watch?v=lQ-lPjbb9Ew&t=434s
+
 # _____________________________________________
 # Концепция Big O
 # main article https://stackabuse.com/big-o-notation-and-algorithm-analysis-with-python-examples/
